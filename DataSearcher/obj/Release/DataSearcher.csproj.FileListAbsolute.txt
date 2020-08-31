@@ -1,0 +1,13 @@
+E:\Projects\.Net projects\DataSearcher\DataSearcher\bin\Release\DataSearcher.exe.config
+E:\Projects\.Net projects\DataSearcher\DataSearcher\bin\Release\DataSearcher.exe
+E:\Projects\.Net projects\DataSearcher\DataSearcher\bin\Release\DataSearcher.pdb
+E:\Projects\.Net projects\DataSearcher\DataSearcher\bin\Release\SautinSoft.Document.dll
+E:\Projects\.Net projects\DataSearcher\DataSearcher\bin\Release\SautinSoft.Document.xml
+E:\Projects\.Net projects\DataSearcher\DataSearcher\obj\Release\DataSearcher.csprojAssemblyReference.cache
+E:\Projects\.Net projects\DataSearcher\DataSearcher\obj\Release\DataSearcher.Form1.resources
+E:\Projects\.Net projects\DataSearcher\DataSearcher\obj\Release\DataSearcher.Properties.Resources.resources
+E:\Projects\.Net projects\DataSearcher\DataSearcher\obj\Release\DataSearcher.csproj.GenerateResource.cache
+E:\Projects\.Net projects\DataSearcher\DataSearcher\obj\Release\DataSearcher.csproj.CoreCompileInputs.cache
+E:\Projects\.Net projects\DataSearcher\DataSearcher\obj\Release\DataSearcher.csproj.CopyComplete
+E:\Projects\.Net projects\DataSearcher\DataSearcher\obj\Release\DataSearcher.exe
+E:\Projects\.Net projects\DataSearcher\DataSearcher\obj\Release\DataSearcher.pdb
